@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='Kapture 2023-08-09 at 22.50.40.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with Kap 
 
@@ -38,7 +38,9 @@ An app I would like to build is one that helps with everyday meals. It would ran
 ## Notes
 
 Describe any challenges encountered while building the app.
+
 There are many menus, options, and buttons, it gets overwhelming, especially if you can't find a certain option. It took me a while to find where the assistant was, and I still dont understand what the storyboard file is or where it was. I didn't do anything for the step that said to open that file.
+
 ## License
 
     Copyright [yyyy] [name of copyright owner]
