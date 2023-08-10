@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='![Kapture 2023-08-09 at 22 50 40](https://github.com/afrahs94/iOS101-Prework-App/assets/115842196/403efd57-00ad-45c8-8b8b-6520c255cc83)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with Kap 
 
